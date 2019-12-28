@@ -68,7 +68,7 @@ namespace Depurginator
                                 break;
                             case '2':
                                 result = result - 49;
-                                revResult = revResult - 49;
+                                revResult = revResult + 49;
                                 break;
                             case '3':
                                 result = result * .2;
