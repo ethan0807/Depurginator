@@ -72,7 +72,7 @@ namespace Depurginator
                                 break;
                             case '3':
                                 result = result * .2;
-                                revResult = revResult * .5;
+                                revResult = revResult * 5;
                                 break;
                             case '4':
                                 result = result - 35;
